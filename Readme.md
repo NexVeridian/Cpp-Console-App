@@ -1,3 +1,5 @@
+Creates and stores loans and items, and read or writes the data in csv format.
+
 # Usage
 run 
 
