@@ -1,4 +1,4 @@
-Creates and stores loans and items, and read or writes the data in csv format.
+Creates and stores loans and items, and read and writes the data in csv format.
 
 # Usage
 run 
